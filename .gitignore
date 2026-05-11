@@ -1,0 +1,37 @@
+# build folders
+build/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# compiled files
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+
+# Visual Studio
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# temporary
+*.log
+*.tmp
+*.bak
